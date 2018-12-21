@@ -1,2 +1,2 @@
-# meetup-solidario
-Uma plataforma para unir os meetps de Techologia da grende porto Alege
+# Meetup solidario
+Uma plataforma para unir os meetups de Techologia da grende porto Alege
